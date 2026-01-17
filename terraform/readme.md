@@ -26,7 +26,7 @@ resource "docker_container" "nginx" {
 
 docker ps
 CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS         PORTS                  NAMES
-b3007228a53b   4af177a024eb   "/docker-entrypoint.…"   5 seconds ago   Up 4 seconds   0.0.0.0:9090->80/tcp   example_Nr040TMGpLoS0Uhg
+53799852284a   4af177a024eb   "/docker-entrypoint.…"   6 seconds ago   Up 5 seconds   0.0.0.0:9090->80/tcp   example_Nr040TMGpLoS0Uhg
 
 6. terraform apply -auto-approve 
 Это означает применить изменения без запроса подтверждения.
@@ -40,3 +40,20 @@ b3007228a53b   4af177a024eb   "/docker-entrypoint.…"   5 seconds ago   Up 4 se
 - в учебных заданиях
 - в тестовой среде
 
+docker ps
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS         PORTS                  NAMES
+9e232f6242be   4af177a024eb   "/docker-entrypoint.…"   5 seconds ago   Up 4 seconds   0.0.0.0:9090->80/tcp   hello_world
+
+7. cat terraform.tfstate
+{
+  "version": 4,
+  "terraform_version": "1.12.0",
+  "serial": 26,
+  "lineage": "46257688-3ab3-4abb-bde9-f477a8404c32",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
+
+8. docker-образ nginx:latest не был удален по причине того, что в терраформ файле есть строчка:
+keep_locally = true
