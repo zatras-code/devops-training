@@ -57,3 +57,5 @@ CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS   
 
 8. docker-образ nginx:latest не был удален по причине того, что в терраформ файле есть строчка:
 keep_locally = true
+Цитата из документации:
+keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
