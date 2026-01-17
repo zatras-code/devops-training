@@ -28,3 +28,15 @@ docker ps
 CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS         PORTS                  NAMES
 b3007228a53b   4af177a024eb   "/docker-entrypoint.…"   5 seconds ago   Up 4 seconds   0.0.0.0:9090->80/tcp   example_Nr040TMGpLoS0Uhg
 
+6. terraform apply -auto-approve 
+Это означает применить изменения без запроса подтверждения.
+Опасность: 
+- удалятся ресурся
+- потеряются данные
+- финансовые потери в бизнесе
+  
+Когда это используют:
+- в CI/CD
+- в учебных заданиях
+- в тестовой среде
+
