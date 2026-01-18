@@ -1,5 +1,7 @@
 Домашнее задание "Основы работы с Terraform"
 4. Ошибки в main.tf:
-  platform_id = "standart-v4"
+- platform_id = "standart-v4"
 должно быть standard и максимуму есть v3
-core_fraction = 20 нельзя
+- core_fraction = 5 нельзя
+допустимо 20, 50 или 100.
+Поставлю 20
