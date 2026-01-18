@@ -2,4 +2,5 @@
 4. Ошибки
 - в main.tf:
   platform_id = "standart-v4"
-должно быть standard
+должно быть standard и максимуму есть v3
+
