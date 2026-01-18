@@ -52,4 +52,7 @@ bash
 Осознание, что “vCPU ≠ реальное ядро”
 
 Задача 2.
+https://github.com/zatras-code/terraform-edu/tree/40b2523f326fe085b41fbec72822961022d8de89/02/src
+
+Задача 3.
 
