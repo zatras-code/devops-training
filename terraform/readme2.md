@@ -54,5 +54,21 @@ bash
 Задача 2.
 https://github.com/zatras-code/terraform-edu/tree/40b2523f326fe085b41fbec72822961022d8de89/02/src
 
-Задача 3.
+Задача 4.
+terraform output
+vms = {
+  "db" = {
+    "external_ip" = "84.252.136.141"
+    "fqdn" = "epdr23rpan8c570int43.auto.internal"
+    "instance_name" = "netology-develop-platform-db"
+  }
+  "web" = {
+    "external_ip" = "158.160.105.121"
+    "fqdn" = "fhmhv4eo7a3k64rbmqqh.auto.internal"
+    "instance_name" = "netology-develop-platform-web"
+  }
+}
+<img width="936" height="410" alt="image" src="https://github.com/user-attachments/assets/9eec6a93-2438-4cfb-b1e5-a86dbf257d7a" />
+
+
 
