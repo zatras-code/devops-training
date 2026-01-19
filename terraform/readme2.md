@@ -70,8 +70,7 @@ vms = {
 }
 <img width="936" height="410" alt="image" src="https://github.com/user-attachments/assets/9eec6a93-2438-4cfb-b1e5-a86dbf257d7a" />
 
-Задание 5.
-<img width="1794" height="624" alt="image" src="https://github.com/user-attachments/assets/d109c652-130c-456f-aede-3dcc4c3e57dd" />
+Задание 6.
+https://github.com/zatras-code/terraform-edu/tree/main/02/src
 
-<img width="1718" height="726" alt="image" src="https://github.com/user-attachments/assets/f8dabf73-5f16-4cac-8d69-b8b09954cffe" />
 
