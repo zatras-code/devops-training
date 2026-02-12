@@ -7,5 +7,10 @@ https://hub.docker.com/repository/docker/zatrascode/custom-nginx/general
 <img width="991" height="531" alt="изображение" src="https://github.com/user-attachments/assets/5542c8ca-f3e3-4b26-aa6d-0d31a9330347" />
 
 Задача 3.
+<img width="1198" height="575" alt="изображение" src="https://github.com/user-attachments/assets/4f924491-ca56-4c8a-b8e9-8f8abd84f956" />
+Объяснение причин закрытия контейнера:
+docker attach подключается к главному процессу контейнера (PID 1).
+Ctrl-C отправляет этому процессу сигнал SIGINT.
+В образе nginx главный процесс — это nginx, он завершился, соответственно docker считает контейнер завершённым, поэтому контейнер остановился.
 
 
