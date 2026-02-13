@@ -12,5 +12,5 @@ https://hub.docker.com/repository/docker/zatrascode/custom-nginx/general
 docker attach подключается к главному процессу контейнера (PID 1).
 Ctrl-C отправляет этому процессу сигнал SIGINT.
 В образе nginx главный процесс — это nginx, он завершился, соответственно docker считает контейнер завершённым, поэтому контейнер остановился.
-
+<img width="1364" height="633" alt="изображение" src="https://github.com/user-attachments/assets/675b7e85-f39f-4c94-8a60-85b0b079b251" />
 
