@@ -27,5 +27,8 @@ Docker пробросил порт 127.0.0.1:8080 на порт 80 контей�
 
 Задание 4.
 <img width="1902" height="910" alt="image" src="https://github.com/user-attachments/assets/64b554cf-78f0-4d56-8f40-4f5330eb0839" />
+<img width="1876" height="784" alt="image" src="https://github.com/user-attachments/assets/0d715d6e-654f-47c0-b4d3-3cadb554ec5b" />
+
+Задание 5.
 
 
