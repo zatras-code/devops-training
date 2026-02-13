@@ -34,4 +34,6 @@ Docker пробросил порт 127.0.0.1:8080 на порт 80 контей�
 Ответ почему:
 По умолчанию docker compose ищет compose-файл в порядке: compose.yaml / compose.yml, docker-compose.yaml / docker-compose.yml.
 Поэтому при наличии compose.yaml и без ключа -f будет использован compose.yaml, и запустится только portainer.
+<img width="1820" height="622" alt="image" src="https://github.com/user-attachments/assets/bc7e9c5e-cc37-4d40-864a-ab833a34329f" />
+
 
