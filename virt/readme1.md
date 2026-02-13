@@ -13,4 +13,6 @@ docker attach подключается к главному процессу ко
 Ctrl-C отправляет этому процессу сигнал SIGINT.
 В образе nginx главный процесс — это nginx, он завершился, соответственно docker считает контейнер завершённым, поэтому контейнер остановился.
 <img width="1364" height="633" alt="изображение" src="https://github.com/user-attachments/assets/675b7e85-f39f-4c94-8a60-85b0b079b251" />
+<img width="1114" height="654" alt="изображение" src="https://github.com/user-attachments/assets/b1294a71-c68c-4d8f-9e9e-cde55b048c5e" />
+
 
