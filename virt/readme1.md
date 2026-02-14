@@ -38,5 +38,13 @@ Docker пробросил порт 127.0.0.1:8080 на порт 80 контей�
 <img width="1862" height="552" alt="image" src="https://github.com/user-attachments/assets/634ed3a6-730b-4be7-89e6-d29ac7e14b5f" />
 <img width="1009" height="757" alt="изображение" src="https://github.com/user-attachments/assets/54445986-0508-4bf6-b092-af746b6956d7" />
 <img width="1342" height="849" alt="изображение" src="https://github.com/user-attachments/assets/9d46c215-d475-4a68-9285-31388db36f5e" />
-
+<img width="1204" height="587" alt="изображение" src="https://github.com/user-attachments/assets/3e42bd3c-b6dc-4fa5-9d4b-e7ba7ea7c584" />
+<img width="1203" height="463" alt="изображение" src="https://github.com/user-attachments/assets/bdaa9076-fb55-48c5-a200-2233901a769c" />
+Суть предупреждения
+Ранее в проекте был сервис portainer из compose.yaml.
+Мы удалили compose.yaml, поэтому в новом манифесте portainer больше нет.
+Но контейнер task5-portainer-1 всё ещё запущен
+Compose называет такие контейнеры orphan — они больше не описаны в текущем compose-файле.
+Предлагается удалить лишние контейнеры.
+После выполнения docker compose down остался один контейнер, так как он был добавлен через portainer, а не через текущий compose файл.
 
