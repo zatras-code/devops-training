@@ -36,3 +36,7 @@ Docker пробросил порт 127.0.0.1:8080 на порт 80 контей�
 Поэтому при наличии compose.yaml и без ключа -f будет использован compose.yaml, и запустится только portainer.
 <img width="1820" height="622" alt="image" src="https://github.com/user-attachments/assets/bc7e9c5e-cc37-4d40-864a-ab833a34329f" />
 <img width="1862" height="552" alt="image" src="https://github.com/user-attachments/assets/634ed3a6-730b-4be7-89e6-d29ac7e14b5f" />
+<img width="1009" height="757" alt="изображение" src="https://github.com/user-attachments/assets/54445986-0508-4bf6-b092-af746b6956d7" />
+<img width="1342" height="849" alt="изображение" src="https://github.com/user-attachments/assets/9d46c215-d475-4a68-9285-31388db36f5e" />
+
+
