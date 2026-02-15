@@ -5,7 +5,8 @@
 <img width="1478" height="836" alt="image" src="https://github.com/user-attachments/assets/e4aed073-a314-4335-bc07-96c6d389002e" />
 <img width="1398" height="366" alt="image" src="https://github.com/user-attachments/assets/70660972-2636-4772-89f5-375d619c1266" />
 Задание 3.
-<img width="1864" height="956" alt="image" src="https://github.com/user-attachments/assets/2cfccb82-201b-4eff-a1ab-aa5cb7533b19" />
-<img width="1862" height="386" alt="image" src="https://github.com/user-attachments/assets/be514b28-0e44-4329-8483-ec574efd5b3f" />
+<img width="1866" height="820" alt="image" src="https://github.com/user-attachments/assets/6435c6d5-4e24-46e9-80f0-46c4e06f674d" />
+<img width="1872" height="456" alt="image" src="https://github.com/user-attachments/assets/f8c690aa-e1e8-4f05-9907-58643024c77c" />
+
 
 
