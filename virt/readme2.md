@@ -16,3 +16,4 @@
 Ссылка на форк:
 https://github.com/zatras-code/shvirtd-example-python
 Задача 6.
+<img width="1324" height="761" alt="изображение" src="https://github.com/user-attachments/assets/b19dc61d-fe64-4ef9-9d60-21bf4949ed37" />
