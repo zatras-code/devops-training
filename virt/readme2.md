@@ -18,4 +18,6 @@ https://github.com/zatras-code/shvirtd-example-python
 Задача 6.
 <img width="1324" height="761" alt="изображение" src="https://github.com/user-attachments/assets/b19dc61d-fe64-4ef9-9d60-21bf4949ed37" />
 <img width="1314" height="233" alt="изображение" src="https://github.com/user-attachments/assets/8831d8f4-2615-4441-af6c-f9da78d98a39" />
+Задание 6.1.
+<img width="1225" height="147" alt="изображение" src="https://github.com/user-attachments/assets/dbd903cf-424f-4774-b982-20129367b8b2" />
 
