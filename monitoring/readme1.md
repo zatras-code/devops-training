@@ -83,24 +83,24 @@ Push модель
 - возможна перегрузка сервера мониторинга
 
 6. Какие системы push/pull
-Prometheus
+- Prometheus
 Основная модель — pull (scrape метрик).
 Но есть Pushgateway, поэтому можно считать гибридом.
 
-TICK (Telegraf + InfluxDB)
+- TICK (Telegraf + InfluxDB)
 Модель push — агент Telegraf отправляет метрики.
 
-Zabbix
+- Zabbix
 Гибридная система:
 agent (push)
 agentless checks (pull)
 
-VictoriaMetrics
+- VictoriaMetrics
 Чаще используется с Prometheus (pull),
 но может принимать push-метрики.
 Поэтому гибридная модель.
 
-Nagios
+- Nagios
 Классическая модель pull (active checks).
 Но есть passive checks - гибрид.
 
