@@ -104,3 +104,5 @@ agentless checks (pull)
 Классическая модель pull (active checks).
 Но есть passive checks - гибрид.
 
+7. Скрин chronograf
+
