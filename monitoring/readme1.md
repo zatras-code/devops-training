@@ -110,6 +110,7 @@ agentless checks (pull)
 8. <img width="384" height="397" alt="изображение" src="https://github.com/user-attachments/assets/44afb0ef-93f4-4984-94c7-08a10c2ec6fe" />
 <img width="1026" height="741" alt="изображение" src="https://github.com/user-attachments/assets/d876491e-1274-41eb-a43b-e2df80fb06a1" />
 
-9. 
+9.<img width="1014" height="709" alt="изображение" src="https://github.com/user-attachments/assets/88a5aa3a-ff91-455f-ad18-0c432dcdcc04" />
+
 
 
