@@ -105,4 +105,11 @@ agentless checks (pull)
 Но есть passive checks - гибрид.
 
 7. Скрин chronograf
+<img width="1028" height="741" alt="изображение" src="https://github.com/user-attachments/assets/be850df8-fde4-4975-b7a3-f835146b83fb" />
+
+8. <img width="384" height="397" alt="изображение" src="https://github.com/user-attachments/assets/44afb0ef-93f4-4984-94c7-08a10c2ec6fe" />
+<img width="1026" height="741" alt="изображение" src="https://github.com/user-attachments/assets/d876491e-1274-41eb-a43b-e2df80fb06a1" />
+
+9. 
+
 
