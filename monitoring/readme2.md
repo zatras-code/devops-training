@@ -18,7 +18,7 @@ node_memory_MemAvailable_bytes / 1024 / 1024 / 1024
 Свободное место на файловой системе:
 node_filesystem_avail_bytes{fstype!~"tmpfs|overlay"} / 1024 / 1024 / 1024
 
-Скрин 
+<img width="2490" height="871" alt="изображение" src="https://github.com/user-attachments/assets/89a3c26d-8a7e-4bd6-9277-74dae8e8c080" />
 
 3. Созданы alert-правила:
 
