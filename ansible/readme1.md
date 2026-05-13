@@ -1,4 +1,12 @@
 Домашнее задание к занятию 4 «Работа с roles»
+https://github.com/zatras-code/vector-role
+https://github.com/zatras-code/lighthouse-role
+https://github.com/zatras-code/ansible-04-playbook
+Описание vector-role:
+https://github.com/zatras-code/vector-role/blob/main/README.md
+Описание lighthouse-role:
+https://github.com/zatras-code/lighthouse-role/blob/main/README.md
+
 Запуск ansible-galaxy install -r requirements.yml -p roles:
 <img width="1309" height="197" alt="изображение" src="https://github.com/user-attachments/assets/3c4b27c7-3b65-42bd-a0be-08749a6ea169" />
 После доработок сменил версию на 1.0.1:
