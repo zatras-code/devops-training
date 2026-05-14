@@ -11,4 +11,6 @@
 <img width="1524" height="765" alt="изображение" src="https://github.com/user-attachments/assets/b96c8ef6-6bd3-472c-b62f-d08e4829b481" />
 <img width="1525" height="751" alt="изображение" src="https://github.com/user-attachments/assets/20522558-1660-4981-b4cb-65493e585ec2" />
 <img width="1531" height="100" alt="изображение" src="https://github.com/user-attachments/assets/7ee5f1a6-2174-4a5f-b3a7-b8d88a7a09f9" />
+https://github.com/zatras-code/lighthouse-role/releases/tag/v1.1.0
+
 
