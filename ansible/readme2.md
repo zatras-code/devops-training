@@ -29,7 +29,25 @@ Tox внутри контейнера
 <img width="1386" height="170" alt="image" src="https://github.com/user-attachments/assets/e9ecf095-4cce-400b-b9ce-191526815821" />
 
 С исправленным tox.ini
-
+<img width="1324" height="740" alt="image" src="https://github.com/user-attachments/assets/8afa086a-6b07-41b3-8742-81e23ed01f3e" />
+<img width="1330" height="770" alt="image" src="https://github.com/user-attachments/assets/f826e8da-d703-45b2-bca4-48e653349025" />
+<img width="1322" height="760" alt="image" src="https://github.com/user-attachments/assets/471a7008-a4d2-431e-b34c-056b26f52baa" />
+<img width="1326" height="760" alt="image" src="https://github.com/user-attachments/assets/965bfb82-5a79-41b6-b1e2-44affd263809" />
+<img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/38eb3d92-fd70-43d0-9844-5bcb48ef3f2b" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/a0f70fec-028b-4c35-9a3f-bda0d3da6f17" />
+<img width="1328" height="730" alt="image" src="https://github.com/user-attachments/assets/9279a16f-6ef6-42c2-ad6a-9dda2963c996" />
+<img width="1328" height="760" alt="image" src="https://github.com/user-attachments/assets/bc8e2b82-661c-4e9d-b6a4-0e165d20a8e0" />
+<img width="1330" height="754" alt="image" src="https://github.com/user-attachments/assets/7ddb06cb-99e4-416f-8a6f-42761ca2c253" />
+<img width="1330" height="766" alt="image" src="https://github.com/user-attachments/assets/18c15bb2-8d15-4529-971e-be08df0e3e5d" />
+<img width="1328" height="716" alt="image" src="https://github.com/user-attachments/assets/1f97df5f-17b5-487f-9151-9f8b59bd2fae" />
+<img width="1330" height="734" alt="image" src="https://github.com/user-attachments/assets/60a66db9-8e00-4f8a-ba0c-63718e05ff50" />
+<img width="1322" height="768" alt="image" src="https://github.com/user-attachments/assets/3505f861-bbf5-414f-ab22-6f200b89c9ff" />
+<img width="1314" height="756" alt="image" src="https://github.com/user-attachments/assets/7fc8ed37-1d3d-4ed4-8233-8980290cb044" />
+<img width="1318" height="242" alt="image" src="https://github.com/user-attachments/assets/494a521b-3807-484d-ab32-1dc056dd505f" />
+С ошибками 2 задания, вероятно из-за несовместимости:
+molecule 6.x
+ansible-compat 24.x
+старого ansible 2.1х
 
 
 
