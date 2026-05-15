@@ -15,6 +15,9 @@ molecule test -s default на vector:
 https://github.com/zatras-code/vector-role/releases/tag/1.1.0
 
 Tox
+Tox внутри контейнера
+<img width="1816" height="750" alt="image" src="https://github.com/user-attachments/assets/2165c6e3-1708-4c7c-9496-0a750f0aee26" />
+<img width="1822" height="760" alt="image" src="https://github.com/user-attachments/assets/f474d38d-e2cd-4830-a9fe-16016503830e" />
 
 
 
