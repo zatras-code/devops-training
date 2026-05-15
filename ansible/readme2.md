@@ -12,9 +12,9 @@ molecule test -s default на vector:
 <img width="1810" height="778" alt="image" src="https://github.com/user-attachments/assets/3191fe28-c9c9-4577-ad50-ddbc4ba73e01" />
 <img width="1824" height="732" alt="image" src="https://github.com/user-attachments/assets/7c3761fc-aff0-4664-bdc8-3983a042eeb0" />
 <img width="1812" height="316" alt="image" src="https://github.com/user-attachments/assets/8f77272a-3bfb-4e8c-b110-181d37b767ca" />
-https://github.com/zatras-code/vector-role/releases/tag/v1.1.0
+https://github.com/zatras-code/vector-role/releases/tag/1.1.0
 
-
+Tox
 
 
 
