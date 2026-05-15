@@ -44,6 +44,8 @@ Tox внутри контейнера
 <img width="1322" height="768" alt="image" src="https://github.com/user-attachments/assets/3505f861-bbf5-414f-ab22-6f200b89c9ff" />
 <img width="1314" height="756" alt="image" src="https://github.com/user-attachments/assets/7fc8ed37-1d3d-4ed4-8233-8980290cb044" />
 <img width="1318" height="242" alt="image" src="https://github.com/user-attachments/assets/494a521b-3807-484d-ab32-1dc056dd505f" />
+Ссылка на версию:
+https://github.com/zatras-code/vector-role/releases/tag/1.1.0
 С ошибками 2 задания, вероятно из-за несовместимости:
 molecule 6.x
 ansible-compat 24.x
@@ -53,7 +55,7 @@ ansible-compat 24.x
 
 
 
-
+Начал делать необязательное:
 molecule test -s ubuntu_xenial на lighthouse:
 <img width="1533" height="773" alt="изображение" src="https://github.com/user-attachments/assets/6b8deec6-1db4-4f5b-83c1-b7b6f706f331" />
 <img width="1530" height="763" alt="изображение" src="https://github.com/user-attachments/assets/a42bd521-c3c3-4ce6-920d-004b31909a26" />
