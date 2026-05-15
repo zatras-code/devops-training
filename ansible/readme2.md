@@ -18,7 +18,17 @@ Tox
 Tox внутри контейнера
 <img width="1816" height="750" alt="image" src="https://github.com/user-attachments/assets/2165c6e3-1708-4c7c-9496-0a750f0aee26" />
 <img width="1822" height="760" alt="image" src="https://github.com/user-attachments/assets/f474d38d-e2cd-4830-a9fe-16016503830e" />
+Проверка на исполнимость облегченной 
+<img width="1386" height="770" alt="image" src="https://github.com/user-attachments/assets/24b2437a-0f78-4617-9058-2e8c6ed3d79e" />
+<img width="1384" height="730" alt="image" src="https://github.com/user-attachments/assets/f5c08914-c5c9-4e07-8b62-da25c2de15e9" />
+<img width="1390" height="752" alt="image" src="https://github.com/user-attachments/assets/fe37da03-e0b6-485f-89f7-1e61831c127a" />
+<img width="1390" height="766" alt="image" src="https://github.com/user-attachments/assets/441f0a61-9adb-4388-bdf5-0f3ac94376d9" />
+<img width="1392" height="730" alt="image" src="https://github.com/user-attachments/assets/e50083c2-efdb-4b72-9797-33369d9371fb" />
+<img width="1386" height="732" alt="image" src="https://github.com/user-attachments/assets/c6390af8-b12a-4977-95c5-4221e2a00529" />
+<img width="1382" height="770" alt="image" src="https://github.com/user-attachments/assets/1ce7f290-9736-4dd2-bf4b-3a8be9cfc220" />
+<img width="1386" height="170" alt="image" src="https://github.com/user-attachments/assets/e9ecf095-4cce-400b-b9ce-191526815821" />
 
+С исправленным tox.ini
 
 
 
