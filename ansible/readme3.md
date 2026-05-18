@@ -1,3 +1,3 @@
 Домашнее задание к занятию 6 «Создание собственных модулей»
 4.
-<img width="818" height="118" alt="изображение" src="https://github.com/user-attachments/assets/d9d2469d-05f1-4f9d-a5a8-daf2f91301ef" />
+<img width="1158" height="558" alt="изображение" src="https://github.com/user-attachments/assets/87194fa4-d7c9-44e3-b0a5-dabb83ca46a2" />
