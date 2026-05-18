@@ -7,4 +7,4 @@
 13-15.
 <img width="1846" height="329" alt="изображение" src="https://github.com/user-attachments/assets/688e00b8-842b-428f-ae22-4881eaba74db" />
 16.
-<img width="1844" height="292" alt="изображение" src="https://github.com/user-attachments/assets/1d9206b9-519a-4299-8707-bf9c60f1649f" />
+<img width="1848" height="296" alt="изображение" src="https://github.com/user-attachments/assets/5247185e-7b9a-4521-b70f-9839af590716" />
