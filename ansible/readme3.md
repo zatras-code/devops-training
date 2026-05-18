@@ -1,6 +1,6 @@
 Домашнее задание к занятию 6 «Создание собственных модулей»
-Репозиторий:
-https://github.com/zatras-code/my_own_collection
+Релиз:
+[https://github.com/zatras-code/my_own_collection](https://github.com/zatras-code/my_own_collection/releases/tag/1.0.0)
 Архив коллекции:
 https://github.com/zatras-code/my_own_collection/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
 4.
