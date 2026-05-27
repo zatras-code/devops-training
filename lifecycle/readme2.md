@@ -7,3 +7,8 @@
 6.
 <img width="1794" height="514" alt="image" src="https://github.com/user-attachments/assets/8104bfcf-7b5f-448e-9550-3615d19c9aa2" />
 <img width="1826" height="438" alt="image" src="https://github.com/user-attachments/assets/7473f511-f9f0-4ffc-b680-783bd4887926" />
+
+Основное задание
+2. 
+<img width="1653" height="722" alt="изображение" src="https://github.com/user-attachments/assets/caa76f02-c27f-42ba-b56d-439fd1048afc" />
+<img width="1794" height="623" alt="изображение" src="https://github.com/user-attachments/assets/fa04483b-a63d-49b0-a23b-ee63587880f2" />
