@@ -26,3 +26,5 @@
 Сделал версию 0.0.3 после МР
 <img width="1828" height="388" alt="изображение" src="https://github.com/user-attachments/assets/1b64e5b6-b966-45ba-9960-3337bb6436c4" />
 <img width="1256" height="602" alt="изображение" src="https://github.com/user-attachments/assets/ddf4d0eb-5664-4470-aae6-8cdee408021d" />
+16-17.
+<img width="1158" height="493" alt="изображение" src="https://github.com/user-attachments/assets/83bd56e8-fd0c-4a2c-be21-5de4e80370e0" />
