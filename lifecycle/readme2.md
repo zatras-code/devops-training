@@ -1,4 +1,6 @@
 Домашнее задание "Teamcity"
+Ссылка на репозиторий:
+https://github.com/zatras-code/example-teamcity
 Подготовка:
 <img width="1812" height="428" alt="image" src="https://github.com/user-attachments/assets/6627ca94-0032-4426-b58f-6064a12c04a1" />
 <img width="1298" height="930" alt="image" src="https://github.com/user-attachments/assets/6178257a-91ce-4dd1-b6a0-f1a8028d3cd9" />
@@ -28,3 +30,8 @@
 <img width="1256" height="602" alt="изображение" src="https://github.com/user-attachments/assets/ddf4d0eb-5664-4470-aae6-8cdee408021d" />
 16-17.
 <img width="1158" height="493" alt="изображение" src="https://github.com/user-attachments/assets/83bd56e8-fd0c-4a2c-be21-5de4e80370e0" />
+18.
+<img width="1373" height="844" alt="изображение" src="https://github.com/user-attachments/assets/04c617db-6479-49f7-b2f8-6a5ddbe7d58c" />
+19.
+Ссылка на репозиторий:
+https://github.com/zatras-code/example-teamcity
