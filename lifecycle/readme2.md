@@ -22,4 +22,7 @@
 <img width="1866" height="862" alt="изображение" src="https://github.com/user-attachments/assets/bc38af31-67fe-495b-bccb-9d7aa18a7620" />
 9-13.
 <img width="1831" height="343" alt="изображение" src="https://github.com/user-attachments/assets/25ff6c82-1912-45e6-8f80-38709160b159" />
-
+14-15.
+Сделал версию 0.0.3 после МР
+<img width="1828" height="388" alt="изображение" src="https://github.com/user-attachments/assets/1b64e5b6-b966-45ba-9960-3337bb6436c4" />
+<img width="1256" height="602" alt="изображение" src="https://github.com/user-attachments/assets/ddf4d0eb-5664-4470-aae6-8cdee408021d" />
