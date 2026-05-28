@@ -18,4 +18,6 @@
 <img width="1812" height="869" alt="изображение" src="https://github.com/user-attachments/assets/7b512f5d-fedb-4ed8-8a49-8b530494c2f4" />
 <img width="1815" height="866" alt="изображение" src="https://github.com/user-attachments/assets/afcf1eb3-93e2-40a1-ac81-78655e063573" />
 <img width="1122" height="567" alt="изображение" src="https://github.com/user-attachments/assets/07b44018-b383-4664-8b19-5cbce73ec627" />
+8.
+<img width="1866" height="862" alt="изображение" src="https://github.com/user-attachments/assets/bc38af31-67fe-495b-bccb-9d7aa18a7620" />
 
