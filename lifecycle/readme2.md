@@ -12,3 +12,5 @@
 2. 
 <img width="1653" height="722" alt="изображение" src="https://github.com/user-attachments/assets/caa76f02-c27f-42ba-b56d-439fd1048afc" />
 <img width="1794" height="623" alt="изображение" src="https://github.com/user-attachments/assets/fa04483b-a63d-49b0-a23b-ee63587880f2" />
+3-4.
+<img width="1808" height="770" alt="изображение" src="https://github.com/user-attachments/assets/92673d2f-606e-4ac1-84e7-680a79072bce" />
