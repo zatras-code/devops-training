@@ -20,4 +20,6 @@
 <img width="1122" height="567" alt="изображение" src="https://github.com/user-attachments/assets/07b44018-b383-4664-8b19-5cbce73ec627" />
 8.
 <img width="1866" height="862" alt="изображение" src="https://github.com/user-attachments/assets/bc38af31-67fe-495b-bccb-9d7aa18a7620" />
+9-13.
+<img width="1831" height="343" alt="изображение" src="https://github.com/user-attachments/assets/25ff6c82-1912-45e6-8f80-38709160b159" />
 
