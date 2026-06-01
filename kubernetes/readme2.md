@@ -63,3 +63,39 @@ spec:
 <img width="1836" height="62" alt="image" src="https://github.com/user-attachments/assets/d55e4926-7b88-438e-a356-8bd9e78dd6ef" />
 <img width="1850" height="782" alt="image" src="https://github.com/user-attachments/assets/13ca6002-1e98-4247-ae2e-3a8c4c076190" />
 <img width="1834" height="126" alt="image" src="https://github.com/user-attachments/assets/ed40b243-6ec1-4c6a-affb-ae630594fd9c" />
+2. deployment-init-nginx.yaml
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: init-nginx
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: init-nginx
+  template:
+    metadata:
+      labels:
+        app: init-nginx
+    spec:
+      initContainers:
+        - name: wait-service
+          image: busybox:1.36
+          command:
+            - sh
+            - -c
+            - |
+              until nslookup init-nginx-svc; do
+                echo "Waiting for service init-nginx-svc..."
+                sleep 5
+              done
+      containers:
+        - name: nginx
+          image: nginx:1.25
+          ports:
+            - containerPort: 80
+<img width="1838" height="298" alt="image" src="https://github.com/user-attachments/assets/96b199f1-09e4-449b-95d9-087ad0d960c7" />
+<img width="1694" height="752" alt="image" src="https://github.com/user-attachments/assets/704f93a2-a609-4604-8da7-e9df47fcb7bf" />
+<img width="1616" height="738" alt="image" src="https://github.com/user-attachments/assets/69d47f09-0224-41b5-8621-30bf1574c435" />
+<img width="1598" height="520" alt="image" src="https://github.com/user-attachments/assets/2a02cea1-3de9-4981-9674-6887d83880e1" />
