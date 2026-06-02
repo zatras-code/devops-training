@@ -1,6 +1,6 @@
 1.Ошибка обычно в том, что nginx и multitool оба хотят порт 80 внутри одного Pod. Поэтому для multitool задаём HTTP_PORT=8080.
 deployment-multitool-nginx.yaml
-
+https://github.com/zatras-code/devops-training/blob/main/kubernetes/2/deployment-multitool-nginx.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -33,7 +33,7 @@ spec:
 <img width="1826" height="98" alt="image" src="https://github.com/user-attachments/assets/6b98738e-002f-4e4d-b56b-b5ecb3841583" />
 <img width="1842" height="222" alt="image" src="https://github.com/user-attachments/assets/051a7df4-230d-4737-885b-7318c5f86f83" />
 service-multitool-nginx.yaml
-
+https://github.com/zatras-code/devops-training/blob/main/kubernetes/2/service-multitool-nginx.yaml
 apiVersion: v1
 kind: Service
 metadata:
@@ -50,7 +50,7 @@ spec:
       targetPort: 8080
 <img width="1832" height="212" alt="image" src="https://github.com/user-attachments/assets/7aa6e8a6-fa20-4758-b483-6280654d3b52" />
 pod-curl.yaml
-
+https://github.com/zatras-code/devops-training/blob/main/kubernetes/2/pod-curl.yaml
 apiVersion: v1
 kind: Pod
 metadata:
@@ -64,7 +64,7 @@ spec:
 <img width="1850" height="782" alt="image" src="https://github.com/user-attachments/assets/13ca6002-1e98-4247-ae2e-3a8c4c076190" />
 <img width="1834" height="126" alt="image" src="https://github.com/user-attachments/assets/ed40b243-6ec1-4c6a-affb-ae630594fd9c" />
 2. deployment-init-nginx.yaml
-
+https://github.com/zatras-code/devops-training/blob/main/kubernetes/2/deployment-init-nginx.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -100,7 +100,7 @@ spec:
 <img width="1464" height="722" alt="image" src="https://github.com/user-attachments/assets/f27f6dff-c5cf-40ce-bbb3-0d455e296bd1" />
 <img width="1490" height="518" alt="image" src="https://github.com/user-attachments/assets/bc761fbd-3f6a-4ecd-8b01-78f88535fd63" />
 service-init-nginx.yaml
-
+https://github.com/zatras-code/devops-training/blob/main/kubernetes/2/service-init-nginx.yaml
 apiVersion: v1
 kind: Service
 metadata:
