@@ -111,3 +111,4 @@ spec:
   ports:
     - port: 80
       targetPort: 80
+<img width="1466" height="174" alt="image" src="https://github.com/user-attachments/assets/d865104c-9ddc-4cc3-a0c4-bc846cc17aad" />
