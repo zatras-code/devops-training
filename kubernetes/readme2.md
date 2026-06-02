@@ -95,7 +95,20 @@ spec:
           image: nginx:1.25
           ports:
             - containerPort: 80
+
 <img width="1838" height="298" alt="image" src="https://github.com/user-attachments/assets/96b199f1-09e4-449b-95d9-087ad0d960c7" />
 <img width="1694" height="752" alt="image" src="https://github.com/user-attachments/assets/704f93a2-a609-4604-8da7-e9df47fcb7bf" />
 <img width="1616" height="738" alt="image" src="https://github.com/user-attachments/assets/69d47f09-0224-41b5-8621-30bf1574c435" />
 <img width="1598" height="520" alt="image" src="https://github.com/user-attachments/assets/2a02cea1-3de9-4981-9674-6887d83880e1" />
+service-init-nginx.yaml
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: init-nginx-svc
+spec:
+  selector:
+    app: init-nginx
+  ports:
+    - port: 80
+      targetPort: 80
