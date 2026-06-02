@@ -86,7 +86,7 @@ spec:
             - sh
             - -c
             - |
-              until nslookup init-nginx-svc; do
+              until nslookup init-nginx-svc.default.svc.cluster.local; do
                 echo "Waiting for service init-nginx-svc..."
                 sleep 5
               done
@@ -95,11 +95,10 @@ spec:
           image: nginx:1.25
           ports:
             - containerPort: 80
-
-<img width="1838" height="298" alt="image" src="https://github.com/user-attachments/assets/96b199f1-09e4-449b-95d9-087ad0d960c7" />
-<img width="1694" height="752" alt="image" src="https://github.com/user-attachments/assets/704f93a2-a609-4604-8da7-e9df47fcb7bf" />
-<img width="1616" height="738" alt="image" src="https://github.com/user-attachments/assets/69d47f09-0224-41b5-8621-30bf1574c435" />
-<img width="1598" height="520" alt="image" src="https://github.com/user-attachments/assets/2a02cea1-3de9-4981-9674-6887d83880e1" />
+<img width="1820" height="272" alt="image" src="https://github.com/user-attachments/assets/8d4062f2-6d49-4787-b4ea-ee909d6f2bcc" />
+<img width="1480" height="752" alt="image" src="https://github.com/user-attachments/assets/8c917c3d-9461-4471-a7c2-5d10f1291224" />
+<img width="1464" height="722" alt="image" src="https://github.com/user-attachments/assets/f27f6dff-c5cf-40ce-bbb3-0d455e296bd1" />
+<img width="1490" height="518" alt="image" src="https://github.com/user-attachments/assets/bc761fbd-3f6a-4ecd-8b01-78f88535fd63" />
 service-init-nginx.yaml
 
 apiVersion: v1
