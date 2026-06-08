@@ -19,3 +19,4 @@ persistentVolumeReclaimPolicy: Retain
 <img width="1003" height="709" alt="изображение" src="https://github.com/user-attachments/assets/ed5948af-9d8a-44c8-9dd9-d90b3f51ebea" />
 <img width="1368" height="680" alt="изображение" src="https://github.com/user-attachments/assets/67e7bcb3-0bea-4fbd-9c10-5bd77aec2793" />
 <img width="1511" height="215" alt="изображение" src="https://github.com/user-attachments/assets/715126c8-5cb3-445a-a943-d185be9f0089" />
+<img width="1137" height="204" alt="изображение" src="https://github.com/user-attachments/assets/6f840d14-fb72-44a3-8662-2e7bd2c13756" />
