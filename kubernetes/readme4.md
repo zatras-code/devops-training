@@ -15,3 +15,7 @@ persistentVolumeReclaimPolicy: Retain
 <img width="950" height="278" alt="изображение" src="https://github.com/user-attachments/assets/c1e7dce9-7fa2-4f9d-9c0e-1e4794262c47" />
 Файл останется. Причина: hostPath — это обычная папка на ноде, а удаление PV удаляет только объект Kubernetes, не саму директорию и не файл.
 3.
+<img width="1377" height="531" alt="изображение" src="https://github.com/user-attachments/assets/2509891e-1780-408a-acf3-427eb5133c26" />
+<img width="1003" height="709" alt="изображение" src="https://github.com/user-attachments/assets/ed5948af-9d8a-44c8-9dd9-d90b3f51ebea" />
+<img width="1368" height="680" alt="изображение" src="https://github.com/user-attachments/assets/67e7bcb3-0bea-4fbd-9c10-5bd77aec2793" />
+<img width="1511" height="215" alt="изображение" src="https://github.com/user-attachments/assets/715126c8-5cb3-445a-a943-d185be9f0089" />
