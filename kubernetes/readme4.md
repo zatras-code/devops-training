@@ -7,3 +7,11 @@
 2.
 <img width="1334" height="404" alt="изображение" src="https://github.com/user-attachments/assets/69bdd155-112b-4047-a172-f19ce57afa15" />
 <img width="1233" height="135" alt="изображение" src="https://github.com/user-attachments/assets/4f4a39eb-4392-4422-bce8-5b32cd3da3ae" />
+<img width="1245" height="328" alt="изображение" src="https://github.com/user-attachments/assets/56955371-cd56-452c-ae9f-85dcffc1363d" />
+Ожидаемо PV стал Released, потому что у него политика:
+persistentVolumeReclaimPolicy: Retain
+То есть Kubernetes не удаляет данные автоматически.
+Проверка файла на ноде:
+<img width="950" height="278" alt="изображение" src="https://github.com/user-attachments/assets/c1e7dce9-7fa2-4f9d-9c0e-1e4794262c47" />
+Файл останется. Причина: hostPath — это обычная папка на ноде, а удаление PV удаляет только объект Kubernetes, не саму директорию и не файл.
+3.
