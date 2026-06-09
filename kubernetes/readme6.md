@@ -5,3 +5,5 @@
 <img width="1852" height="378" alt="image" src="https://github.com/user-attachments/assets/7b74c8d1-b0b3-43a9-8b85-23d8654d8a04" />
 <img width="1822" height="710" alt="image" src="https://github.com/user-attachments/assets/c02810a3-d440-4326-8b59-ccb0c9607245" />
 <img width="1836" height="508" alt="image" src="https://github.com/user-attachments/assets/e4941485-c3c6-4f37-b029-61e91238bcaf" />
+Расположение манифестов:
+https://github.com/zatras-code/devops-training/tree/main/kubernetes/6
