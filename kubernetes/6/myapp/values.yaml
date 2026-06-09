@@ -1,0 +1,14 @@
+nginx:
+  image: nginx
+  tag: "1.28"
+  replicas: 1
+  port: 80
+
+multitool:
+  image: wbitt/network-multitool
+  tag: "latest"
+  replicas: 1
+
+service:
+  type: ClusterIP
+  port: 80

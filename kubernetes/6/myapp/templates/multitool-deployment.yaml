@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-multitool
+  labels:
+    app: {{ .Release.Name }}
+    component: multitool
+spec:
+  replicas: {{ .Values.multitool.replicas }}
+  selector:
+    matchLabels:
+      app: {{ .Release.Name }}
+      component: multitool
+  template:
+    metadata:
+      labels:
+        app: {{ .Release.Name }}
+        component: multitool
+    spec:
+      containers:
+        - name: multitool
+          image: "{{ .Values.multitool.image }}:{{ .Values.multitool.tag }}"
+          env:
+            - name: HTTP_PORT
+              value: "8080"
+            - name: HTTPS_PORT
+              value: "11443"
