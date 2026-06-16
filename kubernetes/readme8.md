@@ -1,5 +1,5 @@
 Инфра развернута терраформом:
-
+https://github.com/zatras-code/devops-training/tree/main/kubernetes/8
 Kubernetes установлен с помощью kubeadm.
 Используемый манифест сетевого плагина:
 https://raw.githubusercontent.com/projectcalico/calico/v3.30.0/manifests/calico.yaml
